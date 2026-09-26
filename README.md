@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Inchara 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Inchara+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%92%BB;AIML+Engineering+Student;Aspiring+Software+Engineer" />
 
 ### AIML Engineering Student • Aspiring Software Engineer
 
@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learning+to+Code+%F0%9F%92%BB;Exploring+AI+%26+ML+%F0%9F%A4%96;Practicing+DSA+%F0%9F%A7%A9;Building+My+Skills+Every+Day+%F0%9F%8C%B1" />
 
 </div>
 
@@ -33,19 +31,19 @@ I enjoy understanding how things work, writing code, solving problems, and conti
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Database & Tools
+### 🗄️ Database & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
@@ -56,16 +54,12 @@ I enjoy understanding how things work, writing code, solving problems, and conti
 ## 📚 Currently Learning
 
 ```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  🧩 Data Structures & Algorithms         │
-│  ☕ Object-Oriented Programming          │
-│  🗄️ Database Management Systems          │
-│  🌐 Web Development                      │
-│  🤖 Artificial Intelligence & ML         │
-│  💻 Problem Solving                      │
-│                                          │
-└──────────────────────────────────────────┘
+🧩 Data Structures & Algorithms
+☕ Object-Oriented Programming
+🗄️ Database Management Systems
+🌐 Web Development
+🤖 Artificial Intelligence & Machine Learning
+💻 Problem Solving
 ```
 
 ---
@@ -110,19 +104,23 @@ GitHub
 
 ## 🧠 My Learning Approach
 
+<div align="center">
+
 ```text
         LEARN
           ↓
-       UNDERSTAND
+      UNDERSTAND
           ↓
-        PRACTICE
+       PRACTICE
           ↓
         BUILD
           ↓
-        IMPROVE
+       IMPROVE
           ↓
         REPEAT
 ```
+
+</div>
 
 > I believe consistency matters more than perfection.
 
@@ -140,15 +138,13 @@ GitHub
 
 ---
 
-## 🌱 A Little More About Me
+## 🌱 My Coding Journey
 
-```text
-💻 Code      → Learn something new
-🧩 DSA       → Solve problems
-📚 College   → Build strong fundamentals
-🤖 AI/ML     → Explore new technology
-🚀 Future    → Become a Software Engineer
-```
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Code+%E2%86%92+Learn+%E2%86%92+Practice;Understand+%E2%86%92+Build+%E2%86%92+Improve;Small+steps+every+day+%F0%9F%8C%B1" />
+
+</p>
 
 ---
 
@@ -166,11 +162,12 @@ GitHub
 
 <div align="center">
 
-### 💻 Keep Learning. Keep Coding. Keep Growing.
+### 💻 Keep Learning • Keep Coding • Keep Growing
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 
 </div>
+
 
 
 

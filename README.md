@@ -112,25 +112,15 @@ GitHub
 
 ---
 
-## 🧠 My Learning Approach
 
-<div align="center">
 
-```text
-        LEARN
-          ↓
-      UNDERSTAND
-          ↓
-       PRACTICE
-          ↓
-        BUILD
-          ↓
-       IMPROVE
-          ↓
-        REPEAT
-```
+## ⚡ Coding Philosophy
 
-</div>
+> **Understand → Analyze → Code → Debug → Optimize → Repeat**
+
+
+
+
 
 > I believe consistency matters more than perfection.
 

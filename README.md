@@ -1,102 +1,112 @@
-<h1 align="center">Hi 👋, I'm Inchara</h1>
+<h1 align="center">Hey 👋, I'm Inchara</h1>
 
-<h3 align="center">AIML Engineering Student | Aspiring Software Engineer</h3>
+<h3 align="center">AIML Engineering Student • Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AIML+Engineering+Student;Learning+Python+%7C+Java+%7C+C;Exploring+Web+Development;Learning+Something+New+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Learning+%7C+Coding+%7C+Growing;Exploring+Artificial+Intelligence;Building+my+Programming+Skills;One+Line+of+Code+at+a+Time" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 About Me
 
+```text
 🎓 AIML Engineering Student
-
-💻 Interested in programming and software development
-
-🌱 Currently learning **Python, Java, C, SQL and Web Development**
-
-🧠 Exploring **Data Structures, OOP, DBMS and AI/ML**
-
-📚 Improving my problem-solving and coding skills
-
-🎯 Aspiring to become a **Software Engineer**
+💻 Aspiring Software Engineer
+🌱 Learning and improving every day
+🧠 Interested in AI, programming & problem solving
+📚 Currently exploring DSA, DBMS, OOP & Web Development
+✨ Believe in learning by doing
+```
 
 ---
 
-## 💻 Languages & Technologies
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode" />
 </p>
 
+<p align="center">
+  Python • Java • C • HTML • CSS • JavaScript • SQL
+</p>
+
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 <p align="center">
 
-🐍 Python   
-☕ Java   
-⚙️ C   
-🗄️ SQL   
-🌐 Web Development   
-🤖 AI/ML
+🧩 Data Structures & Algorithms <br>
+🗄️ Database Management Systems <br>
+☕ Object-Oriented Programming <br>
+🌐 Web Development <br>
+🤖 Artificial Intelligence & Machine Learning
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 My Coding Mindset
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Understand+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Improve;Small+progress+is+still+progress;Learning+today%2C+building+tomorrow" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 2026 Goals
+
+| Goal | Focus                     |
+| ---- | ------------------------- |
+| 💻   | Strengthen Programming    |
+| 🧩   | Practice DSA              |
+| 🗄️  | Improve SQL & DBMS        |
+| 🌐   | Learn Web Development     |
+| 🤖   | Explore AI & ML           |
+| 🚀   | Become a Better Developer |
+
+---
+
+## 🌸 A Little About My Journey
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<strong>Learn.</strong>
+ →  <strong>Practice.</strong>
+ →  <strong>Make Mistakes.</strong>
+ →  <strong>Improve.</strong>
+ →  <strong>Repeat.</strong>
+
 </p>
 
 ---
 
-## 🌱 My Learning Journey
-
-```text
-Learn → Practice → Build → Improve → Repeat
-```
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Learning+to+Code;Practicing+DSA;Exploring+AI%2FML;Improving+Every+Day;Building+My+Future+One+Line+of+Code+at+a+Time" />
-</p>
 
----
+<a href="https://www.linkedin.com/in/inchara-s-sathish-034089368/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🌐 Connect With Me
-
-<p align="center">
+ 
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <h3 align="center">✨ Learn • Code • Grow ✨</h3>
 
 <p align="center">
-  <i>One step at a time.</i>
+  <i>“Consistency turns small efforts into big results.”</i>
 </p>
+

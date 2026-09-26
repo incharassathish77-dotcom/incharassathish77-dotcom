@@ -28,26 +28,104 @@
 I enjoy understanding how things work, writing code, solving problems, and continuously improving my programming skills.
 
 ---
+## 💻 Tech Stack
 
-## 🛠️ Tech Stack
+### Programming Languages
 
-### 💻 Programming Languages
+<p align="left">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+
+<a href="https://www.cprogramming.com/">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</a>
+
 </p>
 
-### 🌐 Web Development
+### Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</a>
+
 </p>
 
-### 🗄️ Database & Tools
+### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<p align="left">
+
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="https://www.sqlite.org/">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</a>
+
 </p>
+
+### Tools & Platforms
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+
+<a href="https://vercel.com/">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+### AI / ML
+
+<p align="left">
+
+<a href="https://numpy.org/">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</a>
+
+</p>
+
+
+  
 
 ---
 

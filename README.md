@@ -16,14 +16,8 @@
 
 ## 👩‍💻 About Me
 
-```text
-🎓 AIML Engineering Student
-💻 Aspiring Software Engineer
-🌱 Learning and improving every day
-🧠 Interested in coding & problem solving
-🤖 Exploring Artificial Intelligence & Machine Learning
-🚀 Learning by building and practicing
-```
+I’m an AIML Engineering student passionate about coding, problem-solving, and building my skills in software development. I’m currently learning and practicing Python, Java, C, SQL, and web development, while exploring areas like Data Structures, OOP, DBMS, and Artificial Intelligence. I enjoy learning new technologies, improving my programming skills through practice, and continuously growing as an aspiring Software Engineer.
+
 
 I enjoy understanding how things work, writing code, solving problems, and continuously improving my programming skills.
 

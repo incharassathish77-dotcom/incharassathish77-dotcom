@@ -1,112 +1,153 @@
-<h1 align="center">Hey 👋, I'm Inchara</h1>
+<div align="center">
 
-<h3 align="center">AIML Engineering Student • Aspiring Software Engineer</h3>
+# Hi, I'm Inchara 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Learning+%7C+Coding+%7C+Growing;Exploring+Artificial+Intelligence;Building+my+Programming+Skills;One+Line+of+Code+at+a+Time" />
+### AIML Engineering Student | Aspiring Software Engineer
+
+<p>
+  <a href="https://www.linkedin.com/in/inchara-s-sathish-034089368/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm an **Artificial Intelligence and Machine Learning Engineering student** with a growing interest in software development, problem solving, and emerging technologies.
+
+I'm currently building a strong foundation in programming and computer science concepts while exploring different areas of software engineering.
+
+* 🎓 AIML Engineering Student
+* 💻 Aspiring Software Engineer
+* 🌱 Currently strengthening my programming fundamentals
+* 🧠 Interested in problem solving and algorithmic thinking
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 📚 Continuously learning and improving
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🌷 About Me
+## Currently Learning
 
 ```text
-🎓 AIML Engineering Student
-💻 Aspiring Software Engineer
-🌱 Learning and improving every day
-🧠 Interested in AI, programming & problem solving
-📚 Currently exploring DSA, DBMS, OOP & Web Development
-✨ Believe in learning by doing
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Management Systems
+SQL
+Web Development
+Artificial Intelligence & Machine Learning
 ```
 
 ---
 
-## 💻 Tech Stack
+## Development Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  Python • Java • C • HTML • CSS • JavaScript • SQL
-</p>
+### Problem Solving
 
----
+* Data Structures
+* Algorithms
+* Logical Thinking
+* Programming Fundamentals
 
-## 🌱 Currently Learning
+</td>
 
-<p align="center">
+<td width="50%">
 
-🧩 Data Structures & Algorithms <br>
-🗄️ Database Management Systems <br>
-☕ Object-Oriented Programming <br>
-🌐 Web Development <br>
-🤖 Artificial Intelligence & Machine Learning
+### Software Development
 
-</p>
+* Object-Oriented Programming
+* Database Systems
+* Web Technologies
+* Version Control
 
----
-
-## 🧠 My Coding Mindset
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Understand+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Improve;Small+progress+is+still+progress;Learning+today%2C+building+tomorrow" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 2026-27 Goals
+## Learning Philosophy
 
-| Goal | Focus                     |
-| ---- | ------------------------- |
-| 💻   | Strengthen Programming    |
-| 🧩   | Practice DSA              |
-| 🗄️  | Improve SQL & DBMS        |
-| 🌐   | Learn Web Development     |
-| 🤖   | Explore AI & ML           |
-| 🚀   | Become a Better Developer |
+> **Learn the fundamentals.
+> Practice consistently.
+> Build with purpose.
+> Improve continuously.**
+
+I believe that becoming a good developer is a continuous process of learning, experimenting, making mistakes, and improving.
 
 ---
 
-## 🌸 A Little About My Journey
+## Education
 
-<p align="center">
+**Bachelor of Engineering — Artificial Intelligence & Machine Learning**
 
-<strong>Learn.</strong>
- →  <strong>Practice.</strong>
- →  <strong>Make Mistakes.</strong>
- →  <strong>Improve.</strong>
- →  <strong>Repeat.</strong>
-
-</p>
+Currently pursuing my engineering degree and developing my foundation in computer science, programming, and AI/ML.
 
 ---
 
-## 🌐 Let's Connect
+## 2026 Focus
 
-<p align="center">
+```text
+01  Strengthen programming fundamentals
+02  Improve Data Structures & Algorithms
+03  Build strong SQL & DBMS knowledge
+04  Develop better OOP concepts
+05  Improve Web Development skills
+06  Explore Artificial Intelligence & Machine Learning
+07  Become a stronger problem solver
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/inchara-s-sathish-034089368/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Inchara%20S%20Sathish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
- 
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
 
-<h3 align="center">✨ Learn • Code • Grow ✨</h3>
+### Thanks for visiting my profile!
 
-<p align="center">
-  <i>“Consistency turns small efforts into big results.”</i>
-</p>
+**Learning • Building • Improving**
+
+</div>
+
 

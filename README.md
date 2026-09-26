@@ -1,40 +1,39 @@
 <div align="center">
 
-# Hi, I'm Inchara 👋
+# Hey, I'm Inchara 👋
 
-### AIML Engineering Student | Aspiring Software Engineer
+### AIML Engineering Student • Aspiring Software Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/inchara-s-sathish-034089368/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learning+to+Code+%F0%9F%92%BB;Exploring+AI+%26+ML+%F0%9F%A4%96;Practicing+DSA+%F0%9F%A7%A9;Building+My+Skills+Every+Day+%F0%9F%8C%B1" />
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm an **Artificial Intelligence and Machine Learning Engineering student** with a growing interest in software development, problem solving, and emerging technologies.
+```text
+🎓 AIML Engineering Student
+💻 Aspiring Software Engineer
+🌱 Learning and improving every day
+🧠 Interested in coding & problem solving
+🤖 Exploring Artificial Intelligence & Machine Learning
+🚀 Learning by building and practicing
+```
 
-I'm currently building a strong foundation in programming and computer science concepts while exploring different areas of software engineering.
-
-* 🎓 AIML Engineering Student
-* 💻 Aspiring Software Engineer
-* 🌱 Currently strengthening my programming fundamentals
-* 🧠 Interested in problem solving and algorithmic thinking
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 📚 Continuously learning and improving
+I enjoy understanding how things work, writing code, solving problems, and continuously improving my programming skills.
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
@@ -54,42 +53,54 @@ I'm currently building a strong foundation in programming and computer science c
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 ```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-SQL
-Web Development
-Artificial Intelligence & Machine Learning
+┌──────────────────────────────────────────┐
+│                                          │
+│  🧩 Data Structures & Algorithms         │
+│  ☕ Object-Oriented Programming          │
+│  🗄️ Database Management Systems          │
+│  🌐 Web Development                      │
+│  🤖 Artificial Intelligence & ML         │
+│  💻 Problem Solving                      │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 ---
 
-## Development Focus
+## 💡 What I'm Working On
 
 <table>
 <tr>
 <td width="50%">
 
-### Problem Solving
+### 💻 Programming
 
-* Data Structures
-* Algorithms
-* Logical Thinking
-* Programming Fundamentals
+```text
+Python
+Java
+C
+Data Structures
+Algorithms
+OOP
+```
 
 </td>
 
 <td width="50%">
 
-### Software Development
+### 🌐 Development
 
-* Object-Oriented Programming
-* Database Systems
-* Web Technologies
-* Version Control
+```text
+HTML
+CSS
+JavaScript
+SQL
+Git
+GitHub
+```
 
 </td>
 </tr>
@@ -97,40 +108,51 @@ Artificial Intelligence & Machine Learning
 
 ---
 
-## Learning Philosophy
-
-> **Learn the fundamentals.
-> Practice consistently.
-> Build with purpose.
-> Improve continuously.**
-
-I believe that becoming a good developer is a continuous process of learning, experimenting, making mistakes, and improving.
-
----
-
-## Education
-
-**Bachelor of Engineering — Artificial Intelligence & Machine Learning**
-
-Currently pursuing my engineering degree and developing my foundation in computer science, programming, and AI/ML.
-
----
-
-## 2026 Focus
+## 🧠 My Learning Approach
 
 ```text
-01  Strengthen programming fundamentals
-02  Improve Data Structures & Algorithms
-03  Build strong SQL & DBMS knowledge
-04  Develop better OOP concepts
-05  Improve Web Development skills
-06  Explore Artificial Intelligence & Machine Learning
-07  Become a stronger problem solver
+        LEARN
+          ↓
+       UNDERSTAND
+          ↓
+        PRACTICE
+          ↓
+        BUILD
+          ↓
+        IMPROVE
+          ↓
+        REPEAT
+```
+
+> I believe consistency matters more than perfection.
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Strengthen programming fundamentals
+* [ ] Improve DSA and problem-solving skills
+* [ ] Get stronger with SQL & DBMS
+* [ ] Understand OOP concepts deeply
+* [ ] Improve Web Development skills
+* [ ] Explore AI & Machine Learning
+* [ ] Become more confident with coding
+
+---
+
+## 🌱 A Little More About Me
+
+```text
+💻 Code      → Learn something new
+🧩 DSA       → Solve problems
+📚 College   → Build strong fundamentals
+🤖 AI/ML     → Explore new technology
+🚀 Future    → Become a Software Engineer
 ```
 
 ---
 
-## Connect With Me
+## 🔗 Let's Connect
 
 <div align="center">
 
@@ -144,10 +166,11 @@ Currently pursuing my engineering degree and developing my foundation in compute
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### 💻 Keep Learning. Keep Coding. Keep Growing.
 
-**Learning • Building • Improving**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 
 </div>
+
 
 

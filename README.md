@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Inchara+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%92%BB;AIML+Engineering+Student;Aspiring+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Inchara+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%92%BB; />
 
 ### AIML Engineering Student • Aspiring Software Engineer
 
@@ -126,15 +126,15 @@ GitHub
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026-27 Goals
 
-* [ ] Strengthen programming fundamentals
-* [ ] Improve DSA and problem-solving skills
-* [ ] Get stronger with SQL & DBMS
-* [ ] Understand OOP concepts deeply
-* [ ] Improve Web Development skills
-* [ ] Explore AI & Machine Learning
-* [ ] Become more confident with coding
+*  Strengthen programming fundamentals
+*  Improve DSA and problem-solving skills
+*  Get stronger with SQL & DBMS
+*  Understand OOP concepts deeply
+*  Improve Web Development skills
+*  Explore AI & Machine Learning
+*  Become more confident with coding
 
 ---
 
